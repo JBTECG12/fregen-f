@@ -20,10 +20,10 @@ module.exports.run = async (bot, message, args) => {
 >>ping: I wonder what this does?;)
 >>google [Name]: Googles Something!
 >>uptime: Shows for how Long the Bot was Online
->>rps: Rock, Papper, Scissors.
+>>rps: Rock, Paper, Scissors.
 >>backup: Join the BackUp Server
 >>help: Shows this Message!
->>dmhelp: Sends this Message on your DM`, true)
+>>dmhelp: Sends this Message to your DM`, true)
             .addField("VIP Commands", `\n>>vipmc: Get A 99% Working Minecraft Account
 >>vipspoti: Get a Spotify Premium Account!
 >>vipuplay: Get a Uplay Account with Games
@@ -33,7 +33,7 @@ More Comming Soon.........!`, true)
 >>setgame [Game}: Sets the Bot game [Just JBTECH]
 >>setstatus [Status]: Sets the Bot status [Just JBTECH]
 >>lockdown [Dration]: Locks down the Channel
->>say [Text]: Made the Bot to say Something!
+>>say [Text]: Make the Bot to say Something!
 >>kick [User] [Reason]: Kicks a User
 >>ban [User] [Reasaon]: Ban a User
 >>tempmute [User] [Time] [Reason]: Mutes a User`, true)
