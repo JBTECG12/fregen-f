@@ -1,1 +1,1 @@
-#freebot
+worker : node.js
